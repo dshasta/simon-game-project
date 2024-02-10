@@ -78,12 +78,3 @@ body {
     flex-wrap: wrap; /* Allow the buttons to wrap onto the next line */
   }
 }
-
-/* Adjustments for very small screens */
-@media (max-width: 600px) {
-  .btn {
-    height: 100px;
-    width: 100px;
-  }
-}
-
